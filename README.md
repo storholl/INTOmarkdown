@@ -1,24 +1,31 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Maríanna Eva Ragnarsdóttir
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Það gekk ótrúlega vel að setja upp Linux (Ubuntu), bjóst við mun meira veseni miðað við lýsingar á Facebook grúbbunni "Inngangur að tölvunarfræði"!
+Hér er svo mynd af herlegheitunum: 
+[Imgur](http://i.imgur.com/KOohrCs.png?1)
+
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Það gekk stóráfallalaust að setja upp vim og git.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Ég get ekki sagt að það hafi gengið eins vel og ofantalin verkefni. En það hafðist þó af með aðstoð og fikti!
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Hér er [tengill](https://github.com/storholl/INTOmarkdown/ ) á INTOmarkdown. 
+
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+1. VLC GNU og GPL [Source code](www.videolan.org/vlc/)
+2. Codeblocks GPL og SDK [Source code]( www.codeblocks.org/downloads/)
+3. GIMP GNU  [Source code](www.gimp.org/downloads/)
+
 
 ## 5. Unnið með Git (2. hluti)
 

@@ -6,7 +6,6 @@ Maríanna Eva Ragnarsdóttir
 
 Það gekk ótrúlega vel að setja upp Linux (Ubuntu), bjóst við mun meira veseni miðað við lýsingar á Facebook grúbbunni "Inngangur að tölvunarfræði"!
 Hér er svo mynd af herlegheitunum: 
-wget http://i.imgur.com/KOohrCs.png
 
 
 ## 2. Uppsetning á vim && git
